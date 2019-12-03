@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "936944809345",
+    "firebase_url": "https://cima-android-11266.firebaseio.com",
+    "project_id": "cima-android-11266",
+    "storage_bucket": "cima-android-11266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936944809345:android:84afa93fa8dfd5da",
+        "android_client_info": {
+          "package_name": "boulder.world.cima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936944809345-bj0k9030p3h9i3ne0c232u4i1p0mc33i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "boulder.world.cima",
+            "certificate_hash": "68f5c9f228f00d45d70ab91a92ab2c688423ec7b"
+          }
+        },
+        {
+          "client_id": "936944809345-5skk69mcfvkohhh8crnnq04k19v9i410.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpIHDwYaxPG5SID4yPcENPFCUsWX7uKJM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936944809345-5skk69mcfvkohhh8crnnq04k19v9i410.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

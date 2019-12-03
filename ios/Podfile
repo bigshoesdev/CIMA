@@ -1,0 +1,37 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'CIMA' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  pod 'Stripe', '~> 11.2.0'
+
+  # Pods for CIMA
+  pod 'Firebase/Core'
+  pod 'Firebase/Auth'
+  pod 'Firebase/Crash'
+  pod 'Firebase/Database'
+  pod 'Firebase/Firestore'
+  pod 'Firebase/Messaging'
+  pod 'Firebase/Performance'
+  pod 'Firebase/Storage'
+
+  target 'CIMA-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+    pod 'tipsi-stripe', :path => '../node_modules/tipsi-stripe'
+
+    pod 'react-native-pdf', :path => '../node_modules/react-native-pdf'
+
+    pod 'react-native-fetch-blob', :path => '../node_modules/react-native-fetch-blob'
+
+  end
+
+  target 'CIMATests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
+
