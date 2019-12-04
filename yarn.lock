@@ -6419,10 +6419,6 @@ react-native-tableview-simple@^0.17.1:
   dependencies:
     prop-types "^15.6.0"
 
-react-native-text-input-mask@^0.5.2:
-  version "0.5.2"
-  resolved "https://registry.yarnpkg.com/react-native-text-input-mask/-/react-native-text-input-mask-0.5.2.tgz#6e38f818c20e1f63cdb8eec951371d59fe01abd0"
-
 react-native-vector-icons@^4.4.2:
   version "4.5.0"
   resolved "https://registry.yarnpkg.com/react-native-vector-icons/-/react-native-vector-icons-4.5.0.tgz#6b95619e64f62f05f579f74a01fe5640df95158b"
@@ -7467,8 +7463,8 @@ stringset@~0.2.1:
   resolved "https://registry.yarnpkg.com/stringset/-/stringset-0.2.1.tgz#ef259c4e349344377fcd1c913dd2e848c9c042b5"
 
 stringstream@~0.0.4, stringstream@~0.0.5:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/stringstream/-/stringstream-0.0.5.tgz#4e484cd4de5a0bbbee18e46307710a8a81621878"
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/stringstream/-/stringstream-0.0.6.tgz#7880225b0d4ad10e30927d167a1d6f2fd3b33a72"
 
 strip-ansi@^3.0.0, strip-ansi@^3.0.1:
   version "3.0.1"
