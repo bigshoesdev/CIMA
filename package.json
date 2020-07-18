@@ -20,7 +20,7 @@
     "eslint-plugin-react": "^6.6.0",
     "eslint-plugin-react-native": "^2.0.0",
     "eslint-watch": "2.1.14",
-    "lodash": "^4.16.6",
+    "lodash": "^4.17.19",
     "moment": "^2.19.3",
     "numeral": "^1.5.3",
     "prop-types": "^15.6.0",
