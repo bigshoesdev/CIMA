@@ -4095,8 +4095,8 @@ inherits@2.0.1:
   resolved "https://registry.yarnpkg.com/inherits/-/inherits-2.0.1.tgz#b17d08d326b4423e568eff719f91b0b1cbdf69f1"
 
 ini@~1.3.0:
-  version "1.3.5"
-  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
 
 inquirer@3.0.6, inquirer@~3.0.6:
   version "3.0.6"
@@ -6418,10 +6418,6 @@ react-native-tableview-simple@^0.17.1:
   resolved "https://registry.yarnpkg.com/react-native-tableview-simple/-/react-native-tableview-simple-0.17.2.tgz#f54c8131093566d518361238e3e0a71143cb5be8"
   dependencies:
     prop-types "^15.6.0"
-
-react-native-text-input-mask@^0.5.2:
-  version "0.5.2"
-  resolved "https://registry.yarnpkg.com/react-native-text-input-mask/-/react-native-text-input-mask-0.5.2.tgz#6e38f818c20e1f63cdb8eec951371d59fe01abd0"
 
 react-native-vector-icons@^4.4.2:
   version "4.5.0"
