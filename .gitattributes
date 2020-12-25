@@ -1,1 +1,5 @@
 *.pbxproj -text
+*.1 linguist-language=Text
+*.2 linguist-language=Text
+*.3 linguist-language=Text
+*.4 linguist-language=text
